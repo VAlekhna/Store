@@ -1,8 +1,8 @@
-# store
+# Store with Online Payment
 
 > Study Project.
 
->> __Store with Online Payment (Stripe).__
+>> __Online payment with Stripe.__
 
 >> __User's personal account.__
 
